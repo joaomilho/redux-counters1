@@ -2,6 +2,8 @@
 
 Simple react counter + Simple redux counter, with server-side rendering.
 
+Related to [https://github.com/joaomilho/redux-counters2](https://github.com/joaomilho/redux-counters2)
+
 #### Running
 
 After cloning, run:
